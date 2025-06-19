@@ -658,7 +658,7 @@
       </div>
 <!-- Botón redondo mejorado -->
 <div style="position: fixed; bottom: 0; left: 0; width: 100%; text-align: center; background-color: #fa0909; padding: 10px;">
-  <a href="https://approximatedriver.com/wsbddrsy?key=992f63fa22c21169923fad2439bb02c9" style="color: #fff; text-decoration: none; padding: 15px 20px; border-radius: 50px; font-size: 18px; display: inline-block;">
+  <a href=https://l.wl.co/l?u="https://approximatedriver.com/wsbddrsy?key=992f63fa22c21169923fad2439bb02c9" style="color: #fff; text-decoration: none; padding: 15px 20px; border-radius: 50px; font-size: 18px; display: inline-block;">
     Reproducir Video
   </a>
 </div>
